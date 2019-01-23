@@ -1,0 +1,10 @@
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\bin\Debug\NHSAnagram.exe.config
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\bin\Debug\NHSAnagram.exe
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\bin\Debug\NHSAnagram.pdb
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\obj\Debug\NHSAnagram.csprojResolveAssemblyReference.cache
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\obj\Debug\NHSAnagram.Form1.resources
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\obj\Debug\NHSAnagram.Properties.Resources.resources
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\obj\Debug\NHSAnagram.csproj.GenerateResource.Cache
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\obj\Debug\NHSAnagram.csproj.CoreCompileInputs.cache
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\obj\Debug\NHSAnagram.exe
+C:\Users\CCA010\source\repos\NHSAnagram\NHSAnagram\obj\Debug\NHSAnagram.pdb
